@@ -29,7 +29,7 @@ The project will gradually include:
 | ------------------------ | ------------------------------------ | ----------- |
 | 01 - LED Blink           | Basic Arduino digital output         | ✅ Completed |
 | 02 - Button Toggle       | Toggle an LED using a pushbutton     | ✅ Completed |
-| 03 - LDR Automatic Light | Control light based on brightness    | ⏳ Upcoming  |
+| 03 - LDR Automatic Light | Control light based on brightness    | ✅ Completed  |
 | 04 - PIR Security        | Detect motion and trigger an alarm   | ⏳ Upcoming  |
 | 05 - DHT22 Climate       | Monitor temperature and humidity     | ⏳ Upcoming  |
 | Final - Smart Home       | Combine multiple sensors and outputs | ⏳ Upcoming  |
